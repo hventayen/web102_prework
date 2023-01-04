@@ -22,7 +22,7 @@ function deleteChildElements(parent) {
  * Skills used: DOM manipulation, for loops, template literals, functions
 */
 
-// grab the element with the id games-container
+// grab the element with the id games-containers
 const gamesContainer = document.getElementById("games-container");
 
 // create a function that adds all data from the games array to the page
